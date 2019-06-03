@@ -1,0 +1,59 @@
+﻿3DES inc Wheel encoder documentation for Yantrabot using the rrb3.
+Edited by Martin Dickie
+
+
+Goal:
+        The goal of using the wheel encoder was to eliminate having dc motors that all move at slightly different speeds. The encoder can keep track of the number of rotations and keep the wheels on the same space.
+
+
+The decoders are simply connected using the following pins: 5v gnd out. Output returns either a 1 or a 0 based on if it can see through the encoder attached to the wheel.
+
+
+The logic of the system is to keep track of the number of rotations for each wheel, and compare them. If one wheel is falling behind then the one that is ahead slows down. The functions provided are to drive for a certain number of rotations, or another option is to drive for a set distance in cm.
+
+
+At the end of a run, the program will estimate how far it traveled, and how many rotations each wheel has made.
+
+Functions included in the WheelEncoder are as follows:
+
+
+* driveCM(distance,maxspeed,minspeed)
+Drives a distance provided, at a default of max speed, the wheel that gets head of the other goes at minspeed.
+
+
+* driveRotations(rotations,maxspeed,minspeed)
+Same as driveCM but instead of a distance provided it takes a number of rotations.
+
+
+* Wheel(wheelNumber,rotations)
+Internal use: keeps track of the rotations and increments them as needed.
+
+
+* stop()
+Internal use: stop the car, and print the number of rotations as well as estimated distance.
+
+
+* printRotations()
+Internal use: prints the number of rotations for each wheel
+
+
+* getRotations(wheelNumber)
+Internal use: returns the number of rotations for specified wheel.
+
+
+In driveCM the value 20.4 is from the wheels measured in testing being approximately 65mm diameter, which is about 204.xxxmm circumference, or about 20.4cm per rotation.
+
+
+The other file in the encoderstuff directory is the testencoder.py. Currently it is setup to have default values to use, but also will accept input values from the user (not in thonny) It is a good example of how to use the WheelEncoder “library”. To use the library if not working in the same directory use the following code:
+
+
+import sys
+sys.path.append(‘/home/USERNAME/Yantrabot/encoderStuff/’)
+import WheelEncoder
+
+
+This is for a linux operating system, for windows it will be slightly different but since this is for raspberry pi it shouldn’t matter.
+The default username is pi because that is the username used on our raspberry pi’s. 
+
+
+Currently in the WheelEncoder class, all of the arrays are set so that 0 is right wheel and 1 is left wheel. Be aware that the encoder pin should be the same as the motor pin, so for the right encoder you’d want to use pin 27, and the left encoder pin 18. But that can be adjusted.

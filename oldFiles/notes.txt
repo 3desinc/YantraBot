@@ -1,0 +1,10 @@
+Notes for RaspiRobot3
+- for installation, you can use python3 - sudo python3 setup.py install
+For installation, I would recommend python 3, as it appears to set the
+directory properly whereas python2 does not.
+
+for the board setup it looks a little like this
+  L     R
+[G][V][V][G]
+to have them both go forwards.
+

@@ -1,0 +1,651 @@
+newest value: -1.34351145038
+negative average: -1.10534351145
+rotating right from negative: -0.238167938931 or -1.34351145038
+newest value: 1.77099236641
+negative average: -1.07480916031
+rotating right from negative: -0.696183206107 or 1.77099236641
+newest value: -0.809160305344
+positive average: 1.41679389313
+rotating right from negative: 0.607633587786 or -0.809160305344
+newest value: 3.24427480916
+negative average: -0.647328244275
+newest value: 5.9465648855
+positive average: 2.59541984733
+newest value: 6.58778625954
+positive average: 4.7572519084
+newest value: -0.160305343511
+positive average: 5.27022900763
+rotating right from negative: 5.10992366412 or -0.160305343511
+newest value: -0.534351145038
+negative average: -0.128244274809
+rotating right from negative: -0.406106870229 or -0.534351145038
+newest value: 3.70992366412
+negative average: -0.427480916031
+newest value: -3.72519083969
+positive average: 2.9679389313
+rotating right from negative: -0.757251908397 or -3.72519083969
+newest value: 0.458015267176
+negative average: -2.98015267176
+rotating right from negative: 2.52213740458 or 0.458015267176
+newest value: 1.62595419847
+positive average: 0.36641221374
+rotating right from negative: -1.25954198473 or 1.62595419847
+newest value: -4.0534351145
+positive average: 1.30076335878
+newest value: -5.0534351145
+negative average: -3.2427480916
+newest value: 0.190839694656
+negative average: -4.0427480916
+rotating right from negative: 3.85190839695 or 0.190839694656
+newest value: -14.1450381679
+positive average: 0.152671755725
+rotating left from: -13.9923664122 or -14.1450381679
+newest value: -6.27480916031
+negative average: -11.3160305344
+rotating right from negative: 5.04122137405 or -6.27480916031
+newest value: -2.35877862595
+negative average: -5.01984732824
+rotating right from negative: 2.66106870229 or -2.35877862595
+newest value: 2.45801526718
+negative average: -1.88702290076
+rotating right from negative: -0.570992366412 or 2.45801526718
+newest value: -1.59541984733
+positive average: 1.96641221374
+rotating right from negative: 0.370992366412 or -1.59541984733
+newest value: -1.45801526718
+negative average: -1.27633587786
+rotating right from negative: -0.181679389313 or -1.45801526718
+newest value: -2.4427480916
+negative average: -1.16641221374
+rotating right from negative: -1.27633587786 or -2.4427480916
+newest value: -7.88549618321
+negative average: -1.95419847328
+newest value: 1.68702290076
+negative average: -6.30839694656
+rotating right from negative: 4.6213740458 or 1.68702290076
+newest value: -1.83969465649
+positive average: 1.34961832061
+rotating right from negative: -0.490076335878 or -1.83969465649
+newest value: 9.25954198473
+negative average: -1.47175572519
+newest value: 11.427480916
+positive average: 7.40763358779
+newest value: -3.60305343511
+positive average: 9.14198473282
+rotating right from negative: 5.53893129771 or -3.60305343511
+newest value: -6.6641221374
+negative average: -2.88244274809
+newest value: 5.02290076336
+negative average: -5.33129770992
+rotating right from negative: 0.308396946565 or 5.02290076336
+newest value: -6.48091603053
+positive average: 4.01832061069
+newest value: 7.72519083969
+negative average: -5.18473282443
+newest value: 8.19083969466
+positive average: 6.18015267176
+newest value: 1.86259541985
+positive average: 6.55267175573
+rotating right from negative: 4.69007633588 or 1.86259541985
+newest value: 5.42748091603
+positive average: 1.49007633588
+newest value: 6.15267175573
+positive average: 4.34198473282
+newest value: 0.580152671756
+positive average: 4.92213740458
+rotating right from negative: 4.34198473282 or 0.580152671756
+newest value: -2.46564885496
+positive average: 0.464122137405
+newest value: 1.80152671756
+negative average: -1.97251908397
+rotating right from negative: 0.170992366412 or 1.80152671756
+newest value: 3.02290076336
+positive average: 1.44122137405
+newest value: 4.39694656489
+positive average: 2.41832061069
+newest value: -1.6106870229
+positive average: 3.51755725191
+rotating right from negative: 1.90687022901 or -1.6106870229
+newest value: 5.79389312977
+negative average: -1.28854961832
+newest value: 2.21374045802
+positive average: 4.63511450382
+rotating right from negative: 2.4213740458 or 2.21374045802
+newest value: 2.90839694656
+positive average: 1.77099236641
+rotating right from negative: -1.13740458015 or 2.90839694656
+newest value: -5.90076335878
+positive average: 2.32671755725
+newest value: -8.08396946565
+negative average: -4.72061068702
+newest value: -0.641221374046
+negative average: -6.46717557252
+rotating right from negative: 5.82595419847 or -0.641221374046
+newest value: 6.42748091603
+negative average: -0.512977099237
+newest value: 2.70229007634
+positive average: 5.14198473282
+rotating right from negative: 2.43969465649 or 2.70229007634
+newest value: 4.22900763359
+positive average: 2.16183206107
+newest value: 4.70992366412
+positive average: 3.38320610687
+rotating right from negative: -1.32671755725 or 4.70992366412
+newest value: -1.6641221374
+positive average: 3.7679389313
+rotating right from negative: 2.10381679389 or -1.6641221374
+newest value: 0.145038167939
+negative average: -1.33129770992
+rotating right from negative: 1.18625954198 or 0.145038167939
+newest value: 6.79389312977
+positive average: 0.116030534351
+newest value: -2.89312977099
+positive average: 5.43511450382
+rotating right from negative: 2.54198473282 or -2.89312977099
+newest value: 3.93129770992
+negative average: -2.31450381679
+newest value: 3.86259541985
+positive average: 3.14503816794
+rotating right from negative: -0.717557251908 or 3.86259541985
+newest value: 7.46564885496
+positive average: 3.09007633588
+newest value: 9.30534351145
+positive average: 5.97251908397
+newest value: 2.19847328244
+positive average: 7.44427480916
+rotating right from negative: 5.24580152672 or 2.19847328244
+newest value: -2.99236641221
+positive average: 1.75877862595
+rotating right from negative: -1.23358778626 or -2.99236641221
+newest value: -0.526717557252
+negative average: -2.39389312977
+rotating right from negative: 1.86717557252 or -0.526717557252
+newest value: 3.97709923664
+negative average: -0.421374045802
+newest value: 7.5572519084
+positive average: 3.18167938931
+newest value: 3.38167938931
+positive average: 6.04580152672
+rotating right from negative: 2.6641221374 or 3.38167938931
+newest value: -1.65648854962
+positive average: 2.70534351145
+rotating right from negative: 1.04885496183 or -1.65648854962
+newest value: 1.25954198473
+negative average: -1.32519083969
+rotating right from negative: 0.0656488549618 or 1.25954198473
+newest value: 0.893129770992
+positive average: 1.00763358779
+rotating right from negative: 0.114503816794 or 0.893129770992
+newest value: 0.618320610687
+positive average: 0.714503816794
+rotating right from negative: 0.0961832061069 or 0.618320610687
+newest value: -2.63358778626
+positive average: 0.49465648855
+newest value: -2.16030534351
+negative average: -2.10687022901
+rotating right from negative: -0.0534351145038 or -2.16030534351
+newest value: 0.412213740458
+negative average: -1.72824427481
+rotating right from negative: 1.31603053435 or 0.412213740458
+newest value: -5.64122137405
+positive average: 0.329770992366
+newest value: -5.12213740458
+negative average: -4.51297709924
+rotating right from negative: -0.609160305344 or -5.12213740458
+newest value: 0.221374045802
+negative average: -4.09770992366
+rotating right from negative: 3.87633587786 or 0.221374045802
+newest value: 4.51908396947
+positive average: 0.177099236641
+newest value: 3.31297709924
+positive average: 3.61526717557
+rotating right from negative: 0.302290076336 or 3.31297709924
+newest value: -5.2213740458
+positive average: 2.65038167939
+newest value: -4.54961832061
+negative average: -4.17709923664
+rotating right from negative: -0.372519083969 or -4.54961832061
+newest value: -6.64122137405
+negative average: -3.63969465649
+newest value: -5.45038167939
+negative average: -5.31297709924
+rotating right from negative: -0.137404580153 or -5.45038167939
+newest value: -5.25954198473
+negative average: -4.36030534351
+rotating right from negative: -0.899236641221 or -5.25954198473
+newest value: -4.39694656489
+negative average: -4.20763358779
+rotating right from negative: -0.189312977099 or -4.39694656489
+newest value: -6.10687022901
+negative average: -3.51755725191
+newest value: -1.32061068702
+negative average: -4.88549618321
+rotating right from negative: 3.56488549618 or -1.32061068702
+newest value: 5.25190839695
+negative average: -1.05648854962
+newest value: 6.19847328244
+positive average: 4.20152671756
+newest value: 4.6106870229
+positive average: 4.95877862595
+rotating right from negative: 0.348091603053 or 4.6106870229
+newest value: 1.16030534351
+positive average: 3.68854961832
+rotating right from negative: 2.52824427481 or 1.16030534351
+newest value: -0.328244274809
+positive average: 0.928244274809
+rotating right from negative: 0.6 or -0.328244274809
+newest value: -0.412213740458
+negative average: -0.262595419847
+rotating right from negative: -0.149618320611 or -0.412213740458
+newest value: -0.0992366412214
+negative average: -0.329770992366
+rotating right from negative: 0.230534351145 or -0.0992366412214
+newest value: 1.78625954198
+negative average: -0.0793893129771
+newest value: 6.27480916031
+positive average: 1.42900763359
+newest value: 4.79389312977
+positive average: 5.01984732824
+rotating right from negative: 0.225954198473 or 4.79389312977
+newest value: 4.56488549618
+positive average: 3.83511450382
+rotating right from negative: -0.729770992366 or 4.56488549618
+newest value: 2.30534351145
+positive average: 3.65190839695
+rotating right from negative: 1.3465648855 or 2.30534351145
+newest value: 2.89312977099
+positive average: 1.84427480916
+rotating right from negative: -1.04885496183 or 2.89312977099
+newest value: 3.74809160305
+positive average: 2.31450381679
+rotating right from negative: -1.43358778626 or 3.74809160305
+newest value: 4.15267175573
+positive average: 2.99847328244
+rotating right from negative: -1.15419847328 or 4.15267175573
+newest value: 1.01526717557
+positive average: 3.32213740458
+rotating right from negative: 2.30687022901 or 1.01526717557
+newest value: -0.603053435115
+positive average: 0.812213740458
+rotating right from negative: 0.209160305344 or -0.603053435115
+newest value: -6.27480916031
+negative average: -0.482442748092
+newest value: -3.28244274809
+negative average: -5.01984732824
+rotating right from negative: 1.73740458015 or -3.28244274809
+newest value: 7.93129770992
+negative average: -2.62595419847
+newest value: 13.893129771
+positive average: 6.34503816794
+newest value: 7.01526717557
+positive average: 11.1145038168
+rotating right from negative: 4.09923664122 or 7.01526717557
+newest value: 6.91603053435
+positive average: 5.61221374046
+rotating right from negative: -1.30381679389 or 6.91603053435
+newest value: -2.41221374046
+positive average: 5.53282442748
+rotating right from negative: 3.12061068702 or -2.41221374046
+newest value: -0.458015267176
+negative average: -1.92977099237
+rotating right from negative: 1.47175572519 or -0.458015267176
+newest value: 7.38167938931
+negative average: -0.36641221374
+newest value: 1.7786259542
+positive average: 5.90534351145
+rotating right from negative: 4.12671755725 or 1.7786259542
+newest value: -0.24427480916
+positive average: 1.42290076336
+rotating right from negative: 1.1786259542 or -0.24427480916
+newest value: 0.664122137405
+negative average: -0.195419847328
+rotating right from negative: -0.468702290076 or 0.664122137405
+newest value: 5.10687022901
+positive average: 0.531297709924
+newest value: 4.88549618321
+positive average: 4.08549618321
+rotating right from negative: -0.8 or 4.88549618321
+newest value: -1.48091603053
+positive average: 3.90839694656
+rotating right from negative: 2.42748091603 or -1.48091603053
+newest value: 0.618320610687
+negative average: -1.18473282443
+rotating right from negative: 0.56641221374 or 0.618320610687
+newest value: 3.71755725191
+positive average: 0.49465648855
+newest value: 0.87786259542
+positive average: 2.97404580153
+rotating right from negative: 2.09618320611 or 0.87786259542
+newest value: 2.02290076336
+positive average: 0.702290076336
+rotating right from negative: -1.32061068702 or 2.02290076336
+newest value: -2.18320610687
+positive average: 1.61832061069
+rotating right from negative: -0.564885496183 or -2.18320610687
+newest value: -1.83969465649
+negative average: -1.7465648855
+rotating right from negative: -0.0931297709924 or -1.83969465649
+newest value: -3.74809160305
+negative average: -1.47175572519
+newest value: 1.09160305344
+negative average: -2.99847328244
+rotating right from negative: 1.90687022901 or 1.09160305344
+newest value: 1.72519083969
+positive average: 0.873282442748
+rotating right from negative: -0.851908396947 or 1.72519083969
+newest value: 9.57251908397
+positive average: 1.38015267176
+newest value: 4.20610687023
+positive average: 7.65801526718
+rotating right from negative: 3.45190839695 or 4.20610687023
+newest value: 6.3358778626
+positive average: 3.36488549618
+newest value: 7.38167938931
+positive average: 5.06870229008
+newest value: 9.61832061069
+positive average: 5.90534351145
+newest value: -1.32824427481
+positive average: 7.69465648855
+rotating right from negative: 6.36641221374 or -1.32824427481
+newest value: -2.98473282443
+negative average: -1.06259541985
+newest value: 1.38167938931
+negative average: -2.38778625954
+rotating right from negative: 1.00610687023 or 1.38167938931
+newest value: 4.06106870229
+positive average: 1.10534351145
+newest value: 4.49618320611
+positive average: 3.24885496183
+rotating right from negative: -1.24732824427 or 4.49618320611
+newest value: 7.15267175573
+positive average: 3.59694656489
+newest value: 3.74045801527
+positive average: 5.72213740458
+rotating right from negative: 1.98167938931 or 3.74045801527
+newest value: 8.61832061069
+positive average: 2.99236641221
+newest value: 3.48854961832
+positive average: 6.89465648855
+rotating right from negative: 3.40610687023 or 3.48854961832
+newest value: -2.84732824427
+positive average: 2.79083969466
+rotating right from negative: -0.0564885496183 or -2.84732824427
+newest value: 10.8625954198
+negative average: -2.27786259542
+newest value: 6.19083969466
+positive average: 8.69007633588
+rotating right from negative: 2.49923664122 or 6.19083969466
+newest value: 5.18320610687
+positive average: 4.95267175573
+rotating right from negative: -0.230534351145 or 5.18320610687
+newest value: 3.21374045802
+positive average: 4.1465648855
+rotating right from negative: 0.932824427481 or 3.21374045802
+newest value: 3.88549618321
+positive average: 2.57099236641
+rotating right from negative: -1.31450381679 or 3.88549618321
+newest value: -1.02290076336
+positive average: 3.10839694656
+rotating right from negative: 2.08549618321 or -1.02290076336
+newest value: -1.42748091603
+negative average: -0.818320610687
+rotating right from negative: -0.609160305344 or -1.42748091603
+newest value: -1.34351145038
+negative average: -1.14198473282
+rotating right from negative: -0.201526717557 or -1.34351145038
+newest value: -1.14503816794
+negative average: -1.07480916031
+rotating right from negative: -0.0702290076336 or -1.14503816794
+newest value: 0.671755725191
+negative average: -0.916030534351
+rotating right from negative: 0.24427480916 or 0.671755725191
+newest value: -3.82442748092
+positive average: 0.537404580153
+newest value: -1.6106870229
+negative average: -3.05954198473
+rotating right from negative: 1.44885496183 or -1.6106870229
+newest value: -8.1679389313
+negative average: -1.28854961832
+newest value: -2.1679389313
+negative average: -6.53435114504
+rotating right from negative: 4.36641221374 or -2.1679389313
+newest value: 6.85496183206
+negative average: -1.73435114504
+newest value: -0.114503816794
+positive average: 5.48396946565
+rotating right from negative: 5.36946564885 or -0.114503816794
+newest value: 6.7786259542
+negative average: -0.0916030534351
+newest value: 2.41221374046
+positive average: 5.42290076336
+rotating right from negative: 3.0106870229 or 2.41221374046
+newest value: -2.08396946565
+positive average: 1.92977099237
+rotating right from negative: -0.154198473282 or -2.08396946565
+newest value: -5.09160305344
+negative average: -1.66717557252
+newest value: 5.17557251908
+negative average: -4.07328244275
+rotating right from negative: -1.10229007634 or 5.17557251908
+newest value: -4.6641221374
+positive average: 4.14045801527
+rotating right from negative: -0.523664122137 or -4.6641221374
+newest value: 5.80916030534
+negative average: -3.73129770992
+newest value: 2.56488549618
+positive average: 4.64732824427
+rotating right from negative: 2.08244274809 or 2.56488549618
+newest value: 0.862595419847
+positive average: 2.05190839695
+rotating right from negative: 1.1893129771 or 0.862595419847
+newest value: -0.992366412214
+positive average: 0.690076335878
+rotating right from negative: -0.302290076336 or -0.992366412214
+newest value: -1.62595419847
+negative average: -0.793893129771
+rotating right from negative: -0.832061068702 or -1.62595419847
+newest value: -1.5572519084
+negative average: -1.30076335878
+rotating right from negative: -0.256488549618 or -1.5572519084
+newest value: -1.70229007634
+negative average: -1.24580152672
+rotating right from negative: -0.456488549618 or -1.70229007634
+newest value: -1.70992366412
+negative average: -1.36183206107
+rotating right from negative: -0.348091603053 or -1.70992366412
+newest value: -1.25954198473
+negative average: -1.3679389313
+rotating right from negative: 0.108396946565 or -1.25954198473
+newest value: -14.0839694656
+negative average: -1.00763358779
+rotating left from: -13.0763358779 or -14.0839694656
+newest value: 15.8015267176
+negative average: -11.2671755725
+newest value: 50.5496183206
+positive average: 12.641221374
+rotating left from: -37.9083969466 or 50.5496183206
+newest value: 97.1297709924
+positive average: 40.4396946565
+rotating left from: -56.6900763359 or 97.1297709924
+newest value: -0.732824427481
+positive average: 77.7038167939
+rotating right from negative: 76.9709923664 or -0.732824427481
+newest value: 101.396946565
+negative average: -0.586259541985
+rotating left from: -100.810687023 or 101.396946565
+newest value: 229.175572519
+positive average: 81.1175572519
+rotating left from: -148.058015267 or 229.175572519
+newest value: 134.053435115
+positive average: 183.340458015
+rotating right from negative: 49.2870229008 or 134.053435115
+newest value: 17.0687022901
+positive average: 107.242748092
+rotating right from negative: 90.1740458015 or 17.0687022901
+newest value: -13.9083969466
+positive average: 13.6549618321
+rotating right from negative: -0.253435114504 or -13.9083969466
+newest value: -43.8549618321
+negative average: -11.1267175573
+rotating left from: -32.7282442748 or -43.8549618321
+newest value: -30.4351145038
+negative average: -35.0839694656
+rotating right from negative: 4.64885496183 or -30.4351145038
+newest value: 21.572519084
+negative average: -24.3480916031
+rotating right from negative: 2.77557251908 or 21.572519084
+newest value: 21.3511450382
+positive average: 17.2580152672
+newest value: 10.8396946565
+positive average: 17.0809160305
+rotating right from negative: 6.24122137405 or 10.8396946565
+newest value: -6.07633587786
+positive average: 8.67175572519
+rotating right from negative: 2.59541984733 or -6.07633587786
+newest value: -30.0610687023
+negative average: -4.86106870229
+rotating left from: -25.2 or -30.0610687023
+newest value: -3.25954198473
+negative average: -24.0488549618
+rotating right from negative: 20.7893129771 or -3.25954198473
+newest value: 41.427480916
+negative average: -2.60763358779
+rotating left from: -38.8198473282 or 41.427480916
+newest value: -2.63358778626
+positive average: 33.1419847328
+rotating right from negative: 30.5083969466 or -2.63358778626
+newest value: 29.7786259542
+negative average: -2.10687022901
+rotating left from: -27.6717557252 or 29.7786259542
+newest value: -18.8244274809
+positive average: 23.8229007634
+rotating right from negative: 4.99847328244 or -18.8244274809
+newest value: -94.4580152672
+negative average: -15.0595419847
+rotating left from: -79.3984732824 or -94.4580152672
+newest value: -81.5267175573
+negative average: -75.5664122137
+newest value: 35.4732824427
+negative average: -65.2213740458
+rotating right from negative: 29.7480916031 or 35.4732824427
+newest value: 5.26717557252
+positive average: 28.3786259542
+rotating right from negative: 23.1114503817 or 5.26717557252
+newest value: 34.2748091603
+positive average: 4.21374045802
+rotating left from: -30.0610687023 or 34.2748091603
+newest value: -21.9770992366
+positive average: 27.4198473282
+rotating right from negative: 5.4427480916 or -21.9770992366
+newest value: 96.9770992366
+negative average: -17.5816793893
+rotating left from: -79.3954198473 or 96.9770992366
+newest value: 67.3435114504
+positive average: 77.5816793893
+rotating right from negative: 10.2381679389 or 67.3435114504
+newest value: -38.1832061069
+positive average: 53.8748091603
+rotating right from negative: 15.6916030534 or -38.1832061069
+newest value: -43.679389313
+negative average: -30.5465648855
+rotating left from: -13.1328244275 or -43.679389313
+newest value: -61.2595419847
+negative average: -34.9435114504
+rotating left from: -26.3160305344 or -61.2595419847
+newest value: -74.9007633588
+negative average: -49.0076335878
+rotating left from: -25.893129771 or -74.9007633588
+newest value: -44.4351145038
+negative average: -59.920610687
+rotating right from negative: 15.4854961832 or -44.4351145038
+newest value: -28.8091603053
+negative average: -35.5480916031
+rotating right from negative: 6.73893129771 or -28.8091603053
+newest value: 98.7786259542
+negative average: -23.0473282443
+rotating left from: -75.7312977099 or 98.7786259542
+newest value: -24.0458015267
+positive average: 79.0229007634
+rotating right from negative: 54.9770992366 or -24.0458015267
+newest value: 32.4427480916
+negative average: -19.2366412214
+rotating left from: -13.2061068702 or 32.4427480916
+newest value: 38.679389313
+positive average: 25.9541984733
+rotating left from: -12.7251908397 or 38.679389313
+newest value: -6.29770992366
+positive average: 30.9435114504
+rotating right from negative: 24.6458015267 or -6.29770992366
+newest value: -58.4427480916
+negative average: -5.03816793893
+rotating left from: -53.4045801527 or -58.4427480916
+newest value: 9.57251908397
+negative average: -46.7541984733
+rotating right from negative: 37.1816793893 or 9.57251908397
+newest value: 13.1450381679
+positive average: 7.65801526718
+newest value: 12.5648854962
+positive average: 10.5160305344
+newest value: -22.9770992366
+positive average: 10.0519083969
+rotating left from: -12.9251908397 or -22.9770992366
+newest value: 4.62595419847
+negative average: -18.3816793893
+rotating right from negative: 13.7557251908 or 4.62595419847
+newest value: -27.7709923664
+positive average: 3.70076335878
+rotating left from: -24.0702290076 or -27.7709923664
+newest value: -7.11450381679
+negative average: -22.2167938931
+rotating right from negative: 15.1022900763 or -7.11450381679
+newest value: -10.0
+negative average: -5.69160305344
+newest value: -7.62595419847
+negative average: -8.0
+rotating right from negative: 0.374045801527 or -7.62595419847
+newest value: -7.69465648855
+negative average: -6.10076335878
+newest value: -36.8473282443
+negative average: -6.15572519084
+rotating left from: -30.6916030534 or -36.8473282443
+newest value: -19.1908396947
+negative average: -29.4778625954
+rotating right from negative: 10.2870229008 or -19.1908396947
+newest value: -14.2671755725
+negative average: -15.3526717557
+rotating right from negative: 1.08549618321 or -14.2671755725
+newest value: -20.1374045802
+negative average: -11.413740458
+newest value: -35.3893129771
+negative average: -16.1099236641
+rotating left from: -19.279389313 or -35.3893129771
+newest value: -36.9465648855
+negative average: -28.3114503817
+newest value: -27.4503816794
+negative average: -29.5572519084
+rotating right from negative: 2.10687022901 or -27.4503816794
+newest value: -22.0916030534
+negative average: -21.9603053435
+rotating right from negative: -0.131297709924 or -22.0916030534
+newest value: -42.3129770992
+negative average: -17.6732824427
+rotating left from: -24.6396946565 or -42.3129770992
+newest value: -29.7557251908
+negative average: -33.8503816794
+rotating right from negative: 4.09465648855 or -29.7557251908
+newest value: 10.3053435115
+negative average: -23.8045801527
+rotating right from negative: 13.4992366412 or 10.3053435115
+newest value: 4.52671755725
+positive average: 8.24427480916
+rotating right from negative: 3.71755725191 or 4.52671755725
+newest value: 33.1145038168
+positive average: 3.6213740458
+rotating left from: -29.493129771 or 33.1145038168
+newest value: -5.80916030534
+positive average: 26.4916030534
+rotating right from negative: 20.6824427481 or -5.80916030534
+newest value: 0.87786259542
+negative average: -4.64732824427
+rotating right from negative: 3.76946564885 or 0.87786259542
+stopping
