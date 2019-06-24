@@ -1,0 +1,43 @@
+#!/usr/bin/env python3
+#line follow test
+
+import RPi.GPIO as GPIO
+from rrb3 import *
+from time import sleep
+#initialize variables
+voltB = 9
+voltM = 6
+
+GPIO.setmode(GPIO.BCM)
+rr = RRB3(voltB,voltM)
+sensorPin = 8
+GPIO.setup(sensorPin,GPIO.IN)
+speed1 = 0.4
+speed2 = 0.25
+timeout = 10000
+
+try:
+    while(timeout > 0):
+        if GPIO.input(sensorPin) == 1:
+            print(GPIO.input(sensorPin))
+            rr.set_led2(1)
+            rr.set_motors(speed1,0,speed1,0)
+            # Check every 10 ms (0.01)
+            sleep(0.01)
+            timeout = timeout + 2
+            if timeout > 10000:
+                timeout = 1000
+                print('timeout reset=', timeout)
+        else:        
+            rr.set_led2(0)
+            rr.set_motors(speed2,1,speed2,1)
+            sleep(0.01)
+            timeout = timeout -1
+            print(GPIO.input(sensorPin))
+	print("Timed out while loop")
+except KeyboardInterrupt:
+        print('Done')
+        rr.stop()
+except:
+    print('Done: Robot needs to stop')
+    rr.stop()
