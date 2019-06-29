@@ -1,2 +1,3 @@
 This folderhas old files that are much needed 
-Includes xrdp deb files & other PI related installation
+Includes xrdp deb files & other PI related installation & dependency files
+These files need to reside /var/cache/apt/archives
