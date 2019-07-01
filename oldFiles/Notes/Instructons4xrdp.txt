@@ -1,0 +1,24 @@
+Instructions to install pre-reqs for xrdp
+
+1. Install packages and dependencies for xrdp
+
+http://www.github.com/3desinc/Yantrabot/oldfiles
+ssl-cert_1.0.39_all.deb
+x11-apps_7.7+6_armhf.deb
+x11-session-utils_7.7+2_armhf.deb
+xbitmaps_1.1.1-2_all.deb
+xfonts-75dpi_1%3a1.0.4+nmu1_all.deb
+xfonts-base_1%3a1.0.4+nmu1_all.deb
+xfonts-scalable_1%3a1.0.3-1.1_all.deb
+xorg-docs-core_1%3a1.7.1-1_all.deb
+xorg_1%3a7.7+19_armhf.deb
+
+xorgxrdp_0.9.1-9+deb9u2_armhf.deb    73.3 Kb
+
+xrdp_0.9.1-9+deb9u2_armhf.deb        401.9 Kb
+
+At the $ prompt now run the following commands:
+
+$sudo apt-get --no-download --no-install-recommends install xorgxrdp
+
+$sudo apt-get --no-download --no-install-recommends install xrdp

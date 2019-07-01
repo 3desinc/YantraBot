@@ -1,0 +1,1 @@
+This folder contains miscelleneous notes for installing RRB & related stuff

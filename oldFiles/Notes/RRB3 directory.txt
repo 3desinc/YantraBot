@@ -1,0 +1,52 @@
+pi@Raspi-9:~/raspirobotboard3/python $ ls -l *
+-rw-r--r-- 1 pi   pi     80 Jun 27 20:38 INSTALL.txt
+-rw-r--r-- 1 pi   pi   1076 Jun 27 20:38 LICENSE.txt
+-rw-r--r-- 1 pi   pi    955 Jun 27 20:38 Makefile
+-rw-r--r-- 1 pi   pi     61 Jun 27 20:38 MANIFEST.in
+-rw-r--r-- 1 pi   pi    375 Jun 27 20:38 README.rst
+-rw-r--r-- 1 pi   pi   5317 Jun 27 20:38 rrb3.py
+-rw-r--r-- 1 pi   pi     54 Jun 27 20:38 setup.cfg
+-rw-r--r-- 1 pi   pi   1304 Jun 27 20:38 setup.py
+
+build:
+total 8
+drwxr-xr-x 2 root root 4096 Jun 27 22:00 bdist.linux-armv7l
+drwxr-xr-x 2 root root 4096 Jun 27 22:00 lib.linux-armv7l-2.7
+
+dist:
+total 8
+-rw-r--r-- 1 root root 5054 Jun 27 22:00 rrb3-1.1-py2.7.egg
+
+examples:
+total 36
+-rw-r--r-- 1 pi pi 1193 Jun 27 20:38 home.tpl
+-rw-r--r-- 1 pi pi  885 Jun 27 20:38 rover_avoiding.py
+drwxr-xr-x 2 pi pi 4096 Jun 27 20:38 rover_kit_examples
+-rw-r--r-- 1 pi pi 2808 Jun 27 20:38 rover_multithreaded.py
+-rw-r--r-- 1 pi pi  751 Jun 27 20:38 rover_web.py
+-rw-r--r-- 1 pi pi 2286 Jun 27 20:38 test_all.py
+-rw-r--r-- 1 pi pi  287 Jun 27 20:38 test_motors.py
+-rw-r--r-- 1 pi pi  302 Jun 27 20:38 test_ranger.py
+-rw-r--r-- 1 pi pi  411 Jun 27 20:38 test_stepper.py
+
+examples_python3:
+total 36
+-rw-r--r-- 1 pi pi 1193 Jun 27 20:38 home.tpl
+-rw-r--r-- 1 pi pi  885 Jun 27 20:38 rover_avoiding.py
+drwxr-xr-x 2 pi pi 4096 Jun 27 20:38 rover_kit_examples
+-rw-r--r-- 1 pi pi 2808 Jun 27 20:38 rover_multithreaded.py
+-rw-r--r-- 1 pi pi  751 Jun 27 20:38 rover_web.py
+-rw-r--r-- 1 pi pi 2282 Jun 27 20:38 test_all.py
+-rw-r--r-- 1 pi pi  287 Jun 27 20:38 test_motors.py
+-rw-r--r-- 1 pi pi  302 Jun 27 20:38 test_ranger.py
+-rw-r--r-- 1 pi pi  399 Jun 27 20:38 test_stepper.py
+
+rrb3.egg-info:
+total 24
+-rw-r--r-- 1 root root    1 Jun 27 22:00 dependency_links.txt
+-rw-r--r-- 1 root root    1 Jun 27 22:00 not-zip-safe
+-rw-r--r-- 1 root root 1374 Jun 27 22:00 PKG-INFO
+-rw-r--r-- 1 root root   14 Jun 27 22:00 requires.txt
+-rw-r--r-- 1 root root  414 Jun 27 22:00 SOURCES.txt
+-rw-r--r-- 1 root root    5 Jun 27 22:00 top_level.txt
+pi@Raspi-9:~/raspirobotboard3/python $ 

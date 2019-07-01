@@ -1,0 +1,20 @@
+The following is for CentOS 7 it might be different on Debian, I use when Install XRDP an any server:
+After the xrdp is installed.
+
+sudo systemctl enable xrdp
+
+sudo chcon -t bin_t /usr/sbin/xrdp
+sudo chcon -t bin_t /usr/sbin/xrdp-sesman
+
+edit file /etc/xrdp/xrdp.ini
+
+change port to 4334
+
+change new_cursors=yes to new_cursors=no
+
+edit file /etc/xrdp/sesman.ini
+
+change MaxSessions=100
+you can make that number higher if needed.
+
+sudo systemctl start xrdp
